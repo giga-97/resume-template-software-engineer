@@ -1,27 +1,27 @@
-# FIRST LAST NAME
+# Ahmed Wagih Ammar
 
-(123) 456 - 7890 | email@gmail.com
+(+48)510008646 | ahmed80wagih@gmail.com
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+www.about.me/Ahmed_Ammar | github.com/giga-97 | linkedin.com/in/a7mdamar
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
+**British University in Egypt** | B.Sc. Degree ... *Sep 2019*
 * **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
+* **Languages**: JavaScript, Bash, Kubernetes, Linux
+* **Version Control**: Git
+* **Automation (IAC)**: Terraform, Ansible
 * *...*
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
+**Technical Solutions Engineer**: Google | Warsaw, Poland ... *April 2022 - Present*
 * Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
 * Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
 * I did X for Y to accomplish Z
 * ...
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
+**Technical Support Engineer**: Dell EMC | Cairo, Egypt ... *November 2019 - April 2022*
 * Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
 * Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
 * ...
